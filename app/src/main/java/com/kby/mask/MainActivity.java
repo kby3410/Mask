@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements NaverMap.OnMapCli
     private InfoWindow infoWindow;
     private List<Marker> markerList = new ArrayList<Marker>();
     private boolean isCameraAnimated = false;
-//dafasdfasfsadfsa
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
